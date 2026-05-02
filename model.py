@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-
+print("=====Model.py=====")
 class ANN(nn.Module):
     def __init__(self):
         super().__init__()
