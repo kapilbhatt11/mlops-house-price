@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+model.pth
+scaler.pkl
+features.pkl
+
+app.log
+venv
